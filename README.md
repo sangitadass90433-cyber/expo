@@ -1,4 +1,4 @@
-<!-- Banner Image -->
+fake Google pay <!-- Banner Image -->
 
 <p align="center">
   <a href="https://expo.dev/">
